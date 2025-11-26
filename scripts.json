@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Murder Mystery 2 🔪",
+        "script": "loadstring(game:HttpGet(\"https://globalexp.xyz/Mm22\"))()"
+    },
+    {
+        "name": "Your Bizarre Adventure | FINAL WEEK 🎃",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Artem1093z/ScriptsGo/refs/heads/main/RandomYbaScript\"))()"
+    },
+    {
+        "name": "Dueling Grounds ⚔️",
+        "script": "loadstring(game:HttpGet('https://pastefy.app/tF2sL1M4/raw'))()"
+    },
+    {
+        "name": "Ninja Legends ⚡️",
+        "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MADMONEYDISTRO/feather-hub/refs/heads/main/feather%20hub%20ninja%20legends'))()"
+    },
+    {
+        "name": "Arsenal 🔫",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/arsenal2.lua\"))()"
+    },
+    {
+        "name": "Valoblox ⭕️ Valorant",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/valoblox.lua\"))()"
+    },
+    {
+        "name": "Anime Femboy Obby 👀",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/animefemboyobby.lua\"))()"
+    },
+    {
+        "name": "Westbound 🤠",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/westboundautofarm.lua\"))()"
+    },
+    {
+        "name": "Blade Ball 🔥 [UPD]",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/vylerabladeball.lua\"))()"
+    },
+    {
+        "name": "RIVALS ❄️",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/vylerarivals.lua\"))()"
+    },
+    {
+        "name": "The Lost Front 🗽 [2x EXP]",
+        "script": "loadstring(game:HttpGet(\"https://airflowscript.com/loader\"))()"
+    },
+    {
+        "name": "99 Nights in the Forest 🔦 (LunarisX)",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/scripture2025/UI/refs/heads/main/LunarisX\"))()"
+    },
+    {
+        "name": "Drive World",
+        "script": "loadstring(game:HttpGet('https://pastebin.com/raw/hpqx4RhT'))()"
+    },
+    {
+        "name": "Rescue Animals",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/main/RescueAnimals\"))()"
+    },
+    {
+        "name": "Build A Mining Machine",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/main/BuildAMiningMachine\"))()"
+    },
+    {
+        "name": "Survive Wave Z",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/main/SurviveWaveZ\"))()"
+    },
+    {
+        "name": "Merge and Fight",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/main/MergeandFight\"))()"
+    },
+    {
+        "name": "Dig Grandma's Backyard",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/main/DigGrandmasBackyard\"))()"
+    },
+    {
+        "name": "Legends Of Speed ⚡️",
+        "script": "loadstring(game:HttpGet(\"https://ghostbin.axel.org/paste/hvb7d/raw\"))()"
+    },
+    {
+        "name": "Street Life Remastered [🦃]",
+        "script": "loadstring(game:HttpGet(\"https://api.lasion.world/loader\"))()"
+    },
+    {
+        "name": "SCP: Roleplay (ПК)",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bodzio21/Magnesium/refs/heads/main/Loader\"))()"
+    },
+    {
+        "name": "SCP: Roleplay (ТЕЛЕФОНЫ)",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bodzio21/Magnesium/refs/heads/main/mobile\"))()"
+    },
+    {
+        "name": "Futuretops: Rework",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bodzio21/Magnesium/refs/heads/main/futuretops\"))()"
+    },
+    {
+        "name": "Traitor Town",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bodzio21/Magnesium/refs/heads/main/traitortown\"))()"
+    },
+    {
+        "name": "Fish It! 🐟 [💎UPD]",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mynamewendel-ctrl/Blessed-Hub-X-/refs/heads/main/Fish%20it\"))()"
+    },
+    {
+        "name": "99 Nights in the Forest 🔦 (VapeVoidware)",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua\", true))()"
+    }
+]
