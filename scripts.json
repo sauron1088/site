@@ -102,5 +102,51 @@
     {
         "name": "99 Nights in the Forest 🔦 (VapeVoidware)",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua\", true))()"
+    },
+
+    // 🔥 Новые добавленные режимы:
+    {
+        "name": "[MOBILE 📱] Counter Blox 🔫",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/salamshegol/nemesis_loader/refs/heads/main/nemesis_loader.lua\"))()"
+    },
+    {
+        "name": "[🎃] Grow a Garden 🌶",
+        "script": "loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()"
+    },
+    {
+        "name": "Evade 💵",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/marcelosero7-cyber/Algolevade/refs/heads/main/obfuscated.lua%20(15).txt\"))()"
+    },
+    {
+        "name": "Animal Simulator 🎃",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gabrelso/TobaHub/refs/heads/main/AnimalSimulator.lua\"))()"
+    },
+    {
+        "name": "99 Nights in the Forest 🔦 (Alt Version)",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/wehibuyfgyuwe/99nights.github.io/refs/heads/main/ringta.lua\"))()"
+    },
+    {
+        "name": "Steal a Brainrot 🧠",
+        "script": "loadstring(game:HttpGet(\"https://pastefy.app/rmbGBzsi/raw\"))()"
+    },
+    {
+        "name": "Naval Warfare ⚠️",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KGuestCheatsJ2/Sc/refs/heads/main/NavalV2\"))()"
+    },
+    {
+        "name": "NFT Battle 🎁",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Yomkaa/YOXI-HUB/refs/heads/main/loader\",true))()"
+    },
+    {
+        "name": "Model Hood 🎄",
+        "script": "loadstring(game:HttpGet('https://gist.githubusercontent.com/uwuszym/f408267d73f2440f3abaaeaf979e0d76/raw/071369dd203a1391b380d2c319eb842810f84e18/main.lua'))()"
+    },
+    {
+        "name": "Drop Mentos in Coke 💦",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/deedlemcdoodledeedlemcdoodle-creator/SpectravaxHub/refs/heads/main/keylessscript.lua\"))()"
+    },
+    {
+        "name": "Power Slap Simulator 💪",
+        "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/MjContiga1/616eee7a47a7248f4440ee3cae6f4311/raw/64ed65d63c1fa8e36e752aed879864ab67928aec/Slap%2520simulator.lua\"))()"
     }
 ]
