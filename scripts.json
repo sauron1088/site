@@ -103,8 +103,6 @@
         "name": "99 Nights in the Forest 🔦 (VapeVoidware)",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua\", true))()"
     },
-
-    // 🔥 Новые добавленные режимы:
     {
         "name": "[MOBILE 📱] Counter Blox 🔫",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/salamshegol/nemesis_loader/refs/heads/main/nemesis_loader.lua\"))()"
